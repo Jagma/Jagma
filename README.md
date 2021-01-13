@@ -10,7 +10,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jagma&count_private=true&hide=stars,prs,issues,contribs&theme=midnight-purple)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jagma&repo=browser-based-presentation-software&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jagma&repo=browser-based-presentation-software&theme=midnight-purple)](https://github.com/Jagma/browser-based-presentation-software)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jagma&repo=mercury&theme=midnight-purple)](https://github.com/Jagma/mercury)
