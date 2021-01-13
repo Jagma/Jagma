@@ -8,7 +8,8 @@
 - ⚡ Fun fact: The drummer from def leppard only has one arm
 - :star2: Favourite Project: https://webserver-itrw324.herokuapp.com/
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jagma)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jagma&count_private=true)
+
 
 <!--
 **Jagma/Jagma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
