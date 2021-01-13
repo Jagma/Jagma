@@ -8,7 +8,7 @@
 - ⚡ Fun fact: The drummer from def leppard only has one arm
 - :star2: Favourite Project: https://webserver-itrw324.herokuapp.com/
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jagma&count_private=true&hide=stars,prs,issues,contribs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jagma&count_private=true&hide=stars,prs,issues,contribs?theme=midnight-purple)
 
 
 <!--
