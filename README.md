@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The drummer from def leppard only has one arm
 - :star2: Favourite Project: https://webserver-itrw324.herokuapp.com/
-- :boom: Current Main Tech: React, .Net Core
+- :boom: Current favourite tech: React, .Net Core
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jagma&count_private=true&hide=stars,prs,issues,contribs&theme=midnight-purple)
 
