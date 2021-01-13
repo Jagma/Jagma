@@ -10,6 +10,15 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jagma&count_private=true&hide=stars,prs,issues,contribs&theme=midnight-purple)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jagma&repo=browser-based-presentation-software)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jagma&repo=mercury)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagma)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Jagma/Jagma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
