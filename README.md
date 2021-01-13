@@ -13,11 +13,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jagma&repo=browser-based-presentation-software)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jagma&repo=mercury)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jagma&repo=mercury)](https://github.com/Jagma/mercury)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagma)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagma&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
